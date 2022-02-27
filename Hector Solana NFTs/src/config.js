@@ -8,18 +8,18 @@ const baseUri = "image.png";
 
 //////////////////////You can EDIT these below///////////////////////////
 /////No need to erase these comments
-  const namess = "My NFT"; ///// name of your nft
-  const symbol = "SYM"; ///symbol of your nft
-  const description = "Your description";
+  const namess = "NULLMICGO"; ///// name of your nft
+  const symbol = "NULLMICGO symbol"; ///symbol of your nft
+  const description = "This is about NUllmicgo description";
   const seller_fee_basis_points = "250"; ///royalties
   const image = "image.png";
-  const animation_url = "your url"; ///not needed if there's no animation
-  const external_url = "your url";
+  const animation_url = ""; ///not needed if there's no animation
+  const external_url = "https://www.nullmicgo.com/externallink";
 
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 100,
     layersOrder: [
       { name: "Background" },
       { name: "Eyeball" },
@@ -32,8 +32,8 @@ const layerConfigurations = [
   },
 ];
 const collection = {
-  "name": "Mi Colección",
-  "family": "Mi Familia" 
+  "name": "nullmicgo eyes Colección",
+  "family": "Michael Lau Family" 
 };
 const properties = {
     "files": [
@@ -45,7 +45,7 @@ const properties = {
     "category": "image",
     "creators": [
       {
-        "address": "Your sol address",
+        "address": "2h3NkXkcphqA5PGY3E1ki15PuzcDZfzQYQmXaU9kJEAC",
         "share": 100 ////the percentage you'll receive
       }
     ]

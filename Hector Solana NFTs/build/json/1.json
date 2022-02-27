@@ -1,11 +1,11 @@
 {
-  "namess": "My NFT",
-  "symbol": "SYM",
-  "description": "Your description",
+  "namess": "NULLMICGO",
+  "symbol": "NULLMICGO symbol",
+  "description": "This is about NUllmicgo description",
   "image": "image.png",
   "seller_fee_basis_points": "250",
-  "animation_url": "your url",
-  "external_url": "your url",
+  "animation_url": "",
+  "external_url": "https://www.nullmicgo.com/externallink",
   "attributes": [
     {
       "trait_type": "Background",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Green"
+      "value": "Cyan"
     },
     {
       "trait_type": "Iris",
@@ -33,12 +33,12 @@
     },
     {
       "trait_type": "Top lid",
-      "value": "Low"
+      "value": "Middle"
     }
   ],
   "collection": {
-    "name": "Mi Colección",
-    "family": "Mi Familia"
+    "name": "nullmicgo eyes Colección",
+    "family": "Michael Lau Family"
   },
   "properties": {
     "files": [
@@ -50,7 +50,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "Your sol address",
+        "address": "2h3NkXkcphqA5PGY3E1ki15PuzcDZfzQYQmXaU9kJEAC",
         "share": 100
       }
     ]
